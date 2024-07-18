@@ -1,2 +1,2 @@
 # Basic
-1)circle L,S;2)Convert valyuta;3)Age Calculator
+1)Circle L,S;2)Convert valyuta;3)Age Calculator
